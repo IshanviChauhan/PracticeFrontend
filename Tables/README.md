@@ -3,6 +3,7 @@
 This project demonstrates a clean and responsive HTML table styled using external CSS. The table presents data in a basic format with a shadowed layout.
 
 Here is how the styled HTML table looks:
+
 ![alt text](image.png)
 
 ---
