@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    background-color: #222831;
+}
+.item{
+    width: 25px;
+    height: 25px;
+    background-color: #3FA9F5;
+    border-radius: 3px;
+    color: #fff;
+    text-align: center;
+    margin: 5px;
+    padding: 30px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    /* flex-grow: 2; */
+    flex-shrink: 0 /* 1(default value) | 0 | any number */;
+    /* flex: 1 1 0px; /* flex-grow | flex-shrink | flex-basis */
+}
+.container{
+    margin: 20px;
+    display: flex;
+    border: 2px solid white;
+    flex-direction: row; /* row (default value)(left to right) | row-reverse(right to left) | column(top to bottom) | column-reverse(bottom to top) */
+    justify-content: center; /* flex-start(default value) | flex-end | center | space-between | space-around | space-evenly*/
+    align-items: center; /* stretch(default value) | flex-start | flex-end | center | baseline */
+    height: 600px;
+    gap: 20px;
+    flex-wrap: wrap; /* wrap(default value) | nowrap | wrap-reverse */
+}
+#item1{
+    /* flex-grow: 4; */
+    /* flex-basis: 25px; /* Used to set the initial size of the flex item */
+}
+#item2{
+    flex-basis: 50px;
+}
+#item3{
+    flex-basis: 75px;
+}
+#item4{
+    flex-basis: 100px;
+}
+#item5{
+    flex-basis: 125px;
+}
