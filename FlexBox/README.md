@@ -1,6 +1,6 @@
 # Flexbox Layout
 
-Welcome to the **Flexbox Layout* concept! This project demonstrates how to use CSS Flexbox properties to create dynamic and responsive layouts for web development.
+Welcome to the **Flexbox Layout concept* This project demonstrates how to use CSS Flexbox properties to create dynamic and responsive layouts for web development.
 
 ---
 
