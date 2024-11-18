@@ -23,7 +23,7 @@ Here is how the styled HTML table looks:
 
 ## Project Structure
 
-- **`index.html`**  
+- **`Table.html`**  
   Contains the HTML structure of the table, including headers, rows, and data.
 
 - **`TableStyle.css`**  
