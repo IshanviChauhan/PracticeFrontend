@@ -8,7 +8,6 @@ Here is how the styled HTML table looks:
 
 ---
 
-
 ## Features
 
 1. **Elegant Design**  
